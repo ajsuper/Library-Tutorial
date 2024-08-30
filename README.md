@@ -1,4 +1,4 @@
-Be sure to read this README.md in RAW mode. it doesnt like alot of kh formatting
+Be sure to read this README.md in RAW mode. it doesnt like alot of my formatting
 Hello!! This is a simple tutorial on how to compile and link a custom library in c++. 
 It doesn't quite cover everything, but if you look at the contents of the files you can figure out more info.
 
