@@ -1,4 +1,4 @@
-Be sure to read this README.md in RAW mode. it doesnt like alot of my formatting
+Be sure to read this README.md in RAW mode. You can do this by clicking on it in the list of all the files of this program and then clicking on RAW which should be just above the top right of the text. it doesnt like alot of my formatting
 Hello!! This is a simple tutorial on how to compile and link a custom library in c++. 
 It doesn't quite cover everything, but if you look at the contents of the files you can figure out more info.
 
